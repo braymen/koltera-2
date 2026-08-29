@@ -1,0 +1,634 @@
+{
+  "version": 5,
+  "name": "",
+  "tab": "Save Management",
+  "subtab": "",
+  "lastSaveTime": 1772865541.952,
+  "firstPlayTime": 1772862796.343,
+  "firstTimeLoad": false,
+  "gameCompleted": false,
+  "totalPlaytime": 2767.661610917955,
+  "onlinePlaytime": 267.27561099997104,
+  "offlinePlaytime": 2500.385999917984,
+  "inventory": [
+    {
+      "id": "chopping-charm",
+      "amount": 23
+    },
+    {
+      "id": "health-potion",
+      "amount": 12
+    },
+    {
+      "id": "saw",
+      "amount": 25
+    },
+    {
+      "id": "feather",
+      "amount": 72
+    },
+    {
+      "id": "twig",
+      "amount": 340
+    },
+    {
+      "id": "pouch",
+      "amount": 28
+    },
+    {
+      "id": "leaf",
+      "amount": 63
+    },
+    {
+      "id": "fertilizer",
+      "amount": 6
+    },
+    {
+      "id": "hammer",
+      "amount": 1
+    },
+    {
+      "id": "copper-ore",
+      "amount": 32
+    },
+    {
+      "id": "raw-fire-essence",
+      "amount": 43
+    },
+    {
+      "id": "coal",
+      "amount": 4
+    }
+  ],
+  "story": {
+    "completedTasks": [
+      "Getting Started",
+      "Openning up Containers",
+      "Summoning Friendly Creatures",
+      "Planting a Flower",
+      "Using the Workbench"
+    ],
+    "unlockedTabs": [
+      "Tutorial",
+      "Chopping",
+      "Collectibles",
+      "Beastiary",
+      "Item Codex",
+      "Achievements",
+      "Settings",
+      "Save Management",
+      "Content Exporter",
+      "Discord",
+      "Credits",
+      "Statistics",
+      "Changelog",
+      "Quit",
+      "Inventory",
+      "Summoning",
+      "Creatures",
+      "Helpers",
+      "Garden",
+      "Workbench",
+      "Mining",
+      "Furnace"
+    ],
+    "lockOverride": false
+  },
+  "creatures": [
+    {
+      "id": "aaf0cc21-5924-4990-9c97-d93f034c1694",
+      "species": "moss",
+      "experience": 17
+    }
+  ],
+  "skills": [
+    {
+      "id": "Chopping",
+      "xp": 718
+    },
+    {
+      "id": "Workbench",
+      "xp": 60
+    },
+    {
+      "id": "Furnace",
+      "xp": 240
+    }
+  ],
+  "progress": {
+    "skilling": {
+      "id": "Chopping",
+      "activity": "sapling",
+      "progress": 0.9011250138282776,
+      "startTime": 1772865554.942,
+      "items": [
+        {
+          "id": "twig",
+          "amount": 33
+        },
+        {
+          "id": "leaf",
+          "amount": 10
+        },
+        {
+          "id": "pouch",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "settings": {
+    "masterVolume": 50,
+    "soundEffectsVolume": 75,
+    "musicVolume": 8,
+    "enableSoundEffects": false,
+    "enableMusic": false,
+    "crtEffect": true,
+    "showSaveIndicator": true,
+    "enableItemGainNotifications": true,
+    "selectedFont": "GameFont",
+    "zoomFactor": 1,
+    "autoScaleEnabled": true,
+    "oldSchoolMode": false,
+    "fullscreen": false,
+    "enableNotificationSounds": true,
+    "offlineProgress": true,
+    "disabledNavigationTabs": [],
+    "autoCollectExpeditions": true,
+    "defaultLoopExpeditions": true
+  },
+  "favoriteItems": [
+    "gold",
+    "awaken-points"
+  ],
+  "stove": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "crusher": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "furnace": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "workbench": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "timbershop": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "alchemytable": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "runecrafter": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "collections": {
+    "items": [
+      "twig",
+      "leaf",
+      "pouch",
+      "chopping-charm",
+      "health-potion",
+      "saw",
+      "feather",
+      "fire-flower",
+      "gold",
+      "raw-fire-essence",
+      "fertilizer",
+      "stone",
+      "hammer",
+      "copper-ore",
+      "coal"
+    ],
+    "achievements": [
+      "collect-1-creature"
+    ],
+    "creatures": [
+      "moss"
+    ],
+    "collectibles": []
+  },
+  "helpers": [
+    {
+      "startTime": 1772865541.992,
+      "creatureId": "moss",
+      "skillId": "Chopping",
+      "activityId": "sapling",
+      "progress": 0.251987498998642
+    }
+  ],
+  "sanctuary": [],
+  "activeExpeditions": [],
+  "expeditionRotation": [],
+  "lastExpeditionRotationTime": null,
+  "expeditionTierSelections": {},
+  "expeditionCompletions": {},
+  "taskBoard": {
+    "tasks": [
+      {
+        "id": "task-1772862795738-0",
+        "itemId": "feather",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-1",
+        "itemId": "meat",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-2",
+        "itemId": "leaf",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-3",
+        "itemId": "dirt",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-4",
+        "itemId": "stone",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-5",
+        "itemId": "relic",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-6",
+        "itemId": "berry",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      },
+      {
+        "id": "task-1772862795738-7",
+        "itemId": "twig",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772862795.738
+      }
+    ],
+    "lastResetTime": 1772589600
+  },
+  "purchasedUpgrades": [],
+  "garden": {
+    "flowers": [
+      {
+        "flowerId": "fire-flower",
+        "x": 0,
+        "y": 0,
+        "level": 1
+      }
+    ],
+    "lastCycleTime": 1772865555.748,
+    "rocks": [
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 2
+      },
+      {
+        "x": 4,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 2,
+        "y": 3
+      },
+      {
+        "x": 3,
+        "y": 3
+      },
+      {
+        "x": 4,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 3,
+        "y": 4
+      },
+      {
+        "x": 4,
+        "y": 4
+      }
+    ]
+  },
+  "dungeons": {
+    "available": [],
+    "pool": [],
+    "totalCompletions": 0,
+    "lastResult": null
+  },
+  "unlockedAutomations": [],
+  "visitedTabs": [
+    "Settings",
+    "Statistics",
+    "Changelog",
+    "Credits",
+    "Developer Tools",
+    "Tutorial",
+    "Content Exporter",
+    "Save Management",
+    "Collectibles",
+    "Beastiary",
+    "Item Codex",
+    "Achievements",
+    "Content Exporter",
+    "Chopping",
+    "Inventory",
+    "Summoning",
+    "Garden",
+    "Creatures",
+    "Helpers",
+    "Mining",
+    "Workbench",
+    "Furnace"
+  ],
+  "unseenSummons": [],
+  "seenSummons": [
+    "sunny",
+    "moss"
+  ],
+  "itemLog": [
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "leaf",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "raw-fire-essence",
+      "amount": 41,
+      "timestamp": 1772865541.955
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865541.992
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865546.941
+    },
+    {
+      "itemId": "leaf",
+      "amount": 1,
+      "timestamp": 1772865546.941
+    },
+    {
+      "itemId": "pouch",
+      "amount": 1,
+      "timestamp": 1772865546.941
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772865554.942
+    },
+    {
+      "itemId": "leaf",
+      "amount": 1,
+      "timestamp": 1772865554.942
+    },
+    {
+      "itemId": "raw-fire-essence",
+      "amount": 1,
+      "timestamp": 1772865555.748
+    }
+  ],
+  "statistics": {
+    "skillingCycles": {
+      "Chopping": 344,
+      "Mining": 0,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "helperCycles": {
+      "Chopping": 17,
+      "Mining": 0,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "totalGoldEarned": 0,
+    "totalTasksCompleted": 0,
+    "totalCreatureXP": 0,
+    "expeditions": {
+      "total": 0,
+      "successful": 0,
+      "failed": 0,
+      "highestPartyScore": 0
+    },
+    "totalItemsGained": 1535,
+    "itemsCrafted": {
+      "Stove": 0,
+      "Workbench": 1,
+      "Furnace": 4,
+      "Timbershop": 0,
+      "total": 5
+    }
+  }
+}

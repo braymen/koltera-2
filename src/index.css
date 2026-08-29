@@ -1,0 +1,740 @@
+@font-face {
+    font-family: 'GameFont';
+    src: url('./content/fonts/AcPlus_IBM_VGA_9x14.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'VT323';
+    src: url('./content/fonts/VT323.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RedAlertINET';
+    src: url('./content/fonts/C&C Red Alert [INET].ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AncientEgyptianHieroglyphs';
+    src: url('./content/fonts/AncientEgyptianHieroglyphs.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Bitty';
+    src: url('./content/fonts/bitty.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-ExtraLight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-ExtraLightItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-RegularItalic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-SemiBoldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-ExtraBold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('./content/fonts/AtkinsonHyperlegibleNext-ExtraBoldItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+:root {
+    --game-font-family: 'GameFont';
+}
+
+* {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+    font-family: var(--game-font-family);
+}
+
+body,
+html {
+    background-color: rgb(34, 34, 34);
+    /* width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0; */
+    /* overflow: hidden; */
+}
+
+h1 {
+    font-size: var(--font-size-h1, 32px);
+    margin: 0;
+    padding: 0;
+    line-height: var(--font-size-h1, 32px);
+    color: white;
+}
+
+h2 {
+    font-size: var(--font-size-h2, 24px);
+    margin: 0;
+    padding: 0;
+    line-height: var(--font-size-h2, 24px);
+    color: white;
+}
+
+h3 {
+    font-size: var(--font-size-h3, 20px);
+    margin: 0;
+    padding: 0;
+    line-height: var(--font-size-h3, 20px);
+    color: white;
+}
+
+p {
+    font-size: var(--font-size-p, 18px);
+    margin: 0;
+    padding: 0;
+    line-height: var(--font-size-p, 18px);
+    color: #dddddd;
+    user-select: none;
+}
+
+img {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.crt::after {
+    content: ' ';
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(18, 16, 16, 0.1);
+    opacity: 0;
+    z-index: 2;
+    pointer-events: none;
+    z-index: 999999;
+}
+.crt::before {
+    content: ' ';
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background:
+        linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.15) 50%),
+        linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+    /* background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%),
+        linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06)); */
+    z-index: 2;
+    background-size:
+        100% 2px,
+        3px 100%;
+    pointer-events: none;
+    z-index: 999999;
+}
+
+.pixel {
+    image-rendering: pixelated;
+}
+
+.btn-primary {
+    background-color: #474747;
+    border-color: #666666;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#game-content-wrapper {
+    width: 1296px;
+    height: 759px;
+    position: relative;
+}
+
+.btn-blue {
+    background-color: #4675a3;
+    border-color: #6092c4;
+}
+
+.btn-red {
+    background-color: #a34646;
+    border-color: #bf5c5c;
+}
+
+.btn-disabled {
+    background-color: #363636;
+    border-color: #292929;
+}
+
+.nav-btn:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.nav-section-header {
+    transition: color 0.2s;
+}
+
+.nav-section-header:hover {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.skill-focus-btn:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.gem-card:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.075);
+}
+
+.collection-item:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+/* High Contrast Mode */
+.high-contrast h1,
+.high-contrast h2,
+.high-contrast h3,
+.high-contrast p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.high-contrast h1,
+.high-contrast h2,
+.high-contrast h3 {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.high-contrast p {
+    color: #ffffff;
+}
+
+.high-contrast button {
+    border: 2px solid #ffffff;
+}
+
+.high-contrast .btn-primary {
+    background-color: #666666;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+/* Old School Mode - Green Monochrome Display */
+.old-school-mode {
+    filter: hue-rotate(160deg) saturate(1) brightness(1) contrast(1);
+}
+
+/* Ensure the filter applies to all content */
+.old-school-mode * {
+    /* Let the parent filter cascade naturally */
+}
+
+/* Creature Image Bounce Animation */
+@keyframes creatureBounce {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-8px);
+    }
+}
+
+.creature-bounce {
+    animation: creatureBounce 0.4s ease-in-out;
+}
+
+/* Creature Image Floating Animation */
+@keyframes creatureFloat {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+.creature-float {
+    animation: creatureFloat 2s ease-in-out infinite;
+}
+
+/* Minimal Floating Animation for Helper Creatures */
+@keyframes creatureFloatMinimal {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-4px);
+    }
+}
+
+.creature-float-minimal {
+    animation: creatureFloatMinimal 2s ease-in-out infinite;
+}
+
+/* Shiny/Foil Effect for Awakened Creatures */
+@keyframes awakenedShine {
+    0% {
+        background-position: -200% center;
+    }
+    100% {
+        background-position: 200% center;
+    }
+}
+
+.creature-awakened {
+    position: relative;
+    overflow: visible;
+    border-radius: 2px;
+    transform-origin: center center;
+}
+
+.creature-awakened-shine {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        90deg,
+        transparent 0%,
+        rgba(255, 20, 147, 0.5) 30%,
+        rgba(255, 105, 180, 0.7) 50%,
+        rgba(255, 20, 147, 0.5) 70%,
+        transparent 100%
+    );
+    background-size: 200% 100%;
+    animation: awakenedShine 2.5s ease-in-out infinite;
+    pointer-events: none;
+    z-index: 1;
+    mix-blend-mode: screen;
+    border-radius: 2px;
+    /* mask-image is set via inline style in AwakenedShine component */
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center center;
+    -webkit-mask-position: center center;
+}
+
+.creature-awakened img {
+    position: relative;
+    z-index: 0;
+    filter: brightness(1.15) saturate(1.3) contrast(1.1);
+    transform-origin: center center;
+}
+
+/* Make the awakened mask follow bounce animations - animation is on container, mask inherits transform */
+.creature-awakened.creature-bounce .creature-awakened-shine {
+    animation: awakenedShine 2.5s ease-in-out infinite;
+}
+
+/* Make the awakened mask follow float animations - animation is on container, mask inherits transform */
+.creature-awakened.creature-float .creature-awakened-shine {
+    animation: awakenedShine 2.5s ease-in-out infinite;
+}
+
+/* Make the awakened mask follow minimal float animations - animation is on container, mask inherits transform */
+.creature-awakened.creature-float-minimal .creature-awakened-shine {
+    animation: awakenedShine 2.5s ease-in-out infinite;
+}
+
+/* Pink/red glow effect for awakened creature names */
+.creature-name-awakened {
+    color: #ff1493 !important;
+    font-weight: 600 !important;
+    /* text-shadow:
+        0 0 5px rgba(255, 20, 147, 0.8),
+        0 0 10px rgba(255, 20, 147, 0.6),
+        0 0 15px rgba(255, 20, 147, 0.4),
+        0 0 20px rgba(255, 20, 147, 0.2); */
+}
+
+/* Disable awakened animation when setting is on */
+.disable-awaken-animation .creature-awakened-shine {
+    display: none;
+}
+
+.disable-awaken-animation .creature-awakened img {
+    filter: none;
+}
+
+/* Pasture Movement Animations */
+@keyframes pastureWander1 {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(30px, -20px);
+    }
+    50% {
+        transform: translate(20px, 30px);
+    }
+    75% {
+        transform: translate(-25px, 15px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pastureWander2 {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(-20px, 25px);
+    }
+    50% {
+        transform: translate(25px, -15px);
+    }
+    75% {
+        transform: translate(-15px, -25px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pastureWander3 {
+    0% {
+        transform: translate(0, 0);
+    }
+    33% {
+        transform: translate(40px, 20px);
+    }
+    66% {
+        transform: translate(-30px, 25px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pastureWander4 {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(-30px, -25px);
+    }
+    50% {
+        transform: translate(35px, 20px);
+    }
+    75% {
+        transform: translate(-20px, 30px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pastureWander5 {
+    0% {
+        transform: translate(0, 0);
+    }
+    20% {
+        transform: translate(25px, 30px);
+    }
+    40% {
+        transform: translate(-35px, 15px);
+    }
+    60% {
+        transform: translate(20px, -25px);
+    }
+    80% {
+        transform: translate(-15px, 20px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pastureWander6 {
+    0% {
+        transform: translate(0, 0);
+    }
+    30% {
+        transform: translate(-25px, -30px);
+    }
+    60% {
+        transform: translate(30px, 25px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+.pasture-wander-1 {
+    animation:
+        pastureWander1 8s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+.pasture-wander-2 {
+    animation:
+        pastureWander2 10s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+.pasture-wander-3 {
+    animation:
+        pastureWander3 12s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+.pasture-wander-4 {
+    animation:
+        pastureWander4 9s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+.pasture-wander-5 {
+    animation:
+        pastureWander5 11s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+.pasture-wander-6 {
+    animation:
+        pastureWander6 13s ease-in-out infinite,
+        creatureFloat 2s ease-in-out infinite;
+}
+
+/* Floating Notification Animations */
+@keyframes floatUpResource {
+    0% {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-80px);
+    }
+}
+
+@keyframes floatUp {
+    0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(-50%, -50%) translateY(-60px);
+    }
+}
+
+@keyframes floatUpExpedition {
+    0% {
+        opacity: 1;
+        transform: translate(-50%, -100%) translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(-50%, -100%) translateY(-20px);
+    }
+}
+
+@keyframes floatUpInventory {
+    0% {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-40px);
+    }
+}
+
+@keyframes pulse {
+    0%,
+    100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+}
+
+@keyframes badgePulse {
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.15);
+        opacity: 0.85;
+    }
+}
+
+.nav-badge-pulse {
+    animation: badgePulse 1.5s ease-in-out infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Reduce Animations */
+.reduce-animations *,
+.reduce-animations *::before,
+.reduce-animations *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    transition-delay: 0ms !important;
+}
+
+/* Custom Scrollbar Styling for Navbar */
+.custom-navbar-scroll,
+.custom-navbar-scroll *,
+.custom-navbar-scroll [data-mantine-scroll-area],
+.custom-navbar-scroll [data-mantine-scroll-area-viewport],
+.custom-navbar-scroll [data-mantine-scroll-area] *,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport] * {
+    scrollbar-width: thin !important;
+    scrollbar-color: rgba(255, 255, 255, 1) transparent !important;
+}
+
+.custom-navbar-scroll::-webkit-scrollbar,
+.custom-navbar-scroll *::-webkit-scrollbar,
+.custom-navbar-scroll [data-mantine-scroll-area]::-webkit-scrollbar,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport]::-webkit-scrollbar,
+.custom-navbar-scroll [data-mantine-scroll-area] *::-webkit-scrollbar,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport] *::-webkit-scrollbar {
+    width: 4px !important;
+}
+
+.custom-navbar-scroll::-webkit-scrollbar-track,
+.custom-navbar-scroll *::-webkit-scrollbar-track,
+.custom-navbar-scroll [data-mantine-scroll-area]::-webkit-scrollbar-track,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport]::-webkit-scrollbar-track,
+.custom-navbar-scroll [data-mantine-scroll-area] *::-webkit-scrollbar-track,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport] *::-webkit-scrollbar-track {
+    background: transparent !important;
+}
+
+.custom-navbar-scroll::-webkit-scrollbar-thumb,
+.custom-navbar-scroll *::-webkit-scrollbar-thumb,
+.custom-navbar-scroll [data-mantine-scroll-area]::-webkit-scrollbar-thumb,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport]::-webkit-scrollbar-thumb,
+.custom-navbar-scroll [data-mantine-scroll-area] *::-webkit-scrollbar-thumb,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport] *::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    border-radius: 2px !important;
+}
+
+.custom-navbar-scroll::-webkit-scrollbar-thumb:hover,
+.custom-navbar-scroll *::-webkit-scrollbar-thumb:hover,
+.custom-navbar-scroll [data-mantine-scroll-area]::-webkit-scrollbar-thumb:hover,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport]::-webkit-scrollbar-thumb:hover,
+.custom-navbar-scroll [data-mantine-scroll-area] *::-webkit-scrollbar-thumb:hover,
+.custom-navbar-scroll [data-mantine-scroll-area-viewport] *::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 255, 255, 0.25) !important;
+}

@@ -1,0 +1,396 @@
+{
+  "version": 5,
+  "name": "",
+  "tab": "Save Management",
+  "subtab": "",
+  "lastSaveTime": 1772865855.711,
+  "firstPlayTime": 1772865855.711,
+  "firstTimeLoad": false,
+  "gameCompleted": false,
+  "totalPlaytime": 27.876072853133167,
+  "onlinePlaytime": 27.77207299999901,
+  "offlinePlaytime": 0.10399985313415527,
+  "inventory": [],
+  "story": {
+    "completedTasks": [],
+    "unlockedTabs": [
+      "Tutorial",
+      "Chopping",
+      "Collectibles",
+      "Beastiary",
+      "Item Codex",
+      "Achievements",
+      "Settings",
+      "Save Management",
+      "Content Exporter",
+      "Discord",
+      "Credits",
+      "Statistics",
+      "Changelog",
+      "Quit"
+    ],
+    "lockOverride": false
+  },
+  "creatures": [],
+  "skills": [],
+  "progress": {
+    "skilling": {
+      "id": "",
+      "activity": "",
+      "progress": 0,
+      "startTime": null,
+      "items": []
+    }
+  },
+  "settings": {
+    "masterVolume": 50,
+    "soundEffectsVolume": 75,
+    "musicVolume": 8,
+    "enableSoundEffects": false,
+    "enableMusic": false,
+    "crtEffect": true,
+    "showSaveIndicator": true,
+    "enableItemGainNotifications": true,
+    "selectedFont": "GameFont",
+    "zoomFactor": 1,
+    "autoScaleEnabled": true,
+    "oldSchoolMode": false,
+    "fullscreen": false,
+    "enableNotificationSounds": true,
+    "offlineProgress": true,
+    "disabledNavigationTabs": [],
+    "autoCollectExpeditions": true,
+    "defaultLoopExpeditions": true
+  },
+  "favoriteItems": [
+    "gold",
+    "awaken-points"
+  ],
+  "stove": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "crusher": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "furnace": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "workbench": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "timbershop": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "alchemytable": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "runecrafter": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "collections": {
+    "items": [],
+    "achievements": [],
+    "creatures": [],
+    "collectibles": []
+  },
+  "helpers": [],
+  "sanctuary": [],
+  "activeExpeditions": [],
+  "expeditionRotation": [],
+  "lastExpeditionRotationTime": null,
+  "expeditionTierSelections": {},
+  "expeditionCompletions": {},
+  "taskBoard": {
+    "tasks": [
+      {
+        "id": "task-1772865855110-0",
+        "itemId": "twig",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-1",
+        "itemId": "relic",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-2",
+        "itemId": "hide",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-3",
+        "itemId": "meat",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-4",
+        "itemId": "feather",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-5",
+        "itemId": "berry",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-6",
+        "itemId": "dirt",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      },
+      {
+        "id": "task-1772865855110-7",
+        "itemId": "leaf",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772865855.11
+      }
+    ],
+    "lastResetTime": 1772589600
+  },
+  "purchasedUpgrades": [],
+  "garden": {
+    "flowers": [],
+    "lastCycleTime": 1772865855.11,
+    "rocks": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 2
+      },
+      {
+        "x": 4,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 2,
+        "y": 3
+      },
+      {
+        "x": 3,
+        "y": 3
+      },
+      {
+        "x": 4,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 3,
+        "y": 4
+      },
+      {
+        "x": 4,
+        "y": 4
+      }
+    ]
+  },
+  "dungeons": {
+    "available": [],
+    "pool": [],
+    "totalCompletions": 0,
+    "lastResult": null
+  },
+  "unlockedAutomations": [],
+  "visitedTabs": [
+    "Settings",
+    "Statistics",
+    "Changelog",
+    "Credits",
+    "Developer Tools",
+    "Tutorial",
+    "Content Exporter",
+    "Save Management",
+    "Collectibles",
+    "Beastiary",
+    "Item Codex",
+    "Achievements",
+    "Content Exporter",
+    "Chopping"
+  ],
+  "unseenSummons": [],
+  "seenSummons": [],
+  "itemLog": [],
+  "statistics": {
+    "skillingCycles": {
+      "Chopping": 0,
+      "Mining": 0,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "helperCycles": {
+      "Chopping": 0,
+      "Mining": 0,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "totalGoldEarned": 0,
+    "totalTasksCompleted": 0,
+    "totalCreatureXP": 0,
+    "expeditions": {
+      "total": 0,
+      "successful": 0,
+      "failed": 0,
+      "highestPartyScore": 0
+    },
+    "totalItemsGained": 0,
+    "itemsCrafted": {
+      "Stove": 0,
+      "Workbench": 0,
+      "Furnace": 0,
+      "Timbershop": 0,
+      "total": 0
+    }
+  }
+}

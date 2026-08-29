@@ -1,0 +1,961 @@
+{
+  "version": 5,
+  "name": "",
+  "tab": "Save Management",
+  "subtab": "",
+  "lastSaveTime": 1772835361.443,
+  "firstPlayTime": 1772775649.664,
+  "firstTimeLoad": false,
+  "totalPlaytime": 59748.34329598607,
+  "onlinePlaytime": 9271.148296052832,
+  "offlinePlaytime": 50477.19499993324,
+  "inventory": [
+    {
+      "id": "feather",
+      "amount": 246
+    },
+    {
+      "id": "leaf",
+      "amount": 383
+    },
+    {
+      "id": "chopping-charm",
+      "amount": 83
+    },
+    {
+      "id": "saw",
+      "amount": 275
+    },
+    {
+      "id": "health-potion",
+      "amount": 58
+    },
+    {
+      "id": "fertilizer",
+      "amount": 12
+    },
+    {
+      "id": "raw-fire-essence",
+      "amount": 987
+    },
+    {
+      "id": "twig",
+      "amount": 293
+    },
+    {
+      "id": "planks",
+      "amount": 30
+    },
+    {
+      "id": "coal",
+      "amount": 84
+    },
+    {
+      "id": "gold",
+      "amount": 1308
+    },
+    {
+      "id": "fire-flower",
+      "amount": 1
+    },
+    {
+      "id": "stone",
+      "amount": 7989
+    },
+    {
+      "id": "hammer",
+      "amount": 71
+    },
+    {
+      "id": "copper-ore",
+      "amount": 14
+    },
+    {
+      "id": "copper-bar",
+      "amount": 16
+    },
+    {
+      "id": "exploring-charm",
+      "amount": 6
+    },
+    {
+      "id": "digging-charm",
+      "amount": 4
+    },
+    {
+      "id": "fishing-charm",
+      "amount": 4
+    },
+    {
+      "id": "gold-flower",
+      "amount": 1
+    },
+    {
+      "id": "relic",
+      "amount": 570
+    },
+    {
+      "id": "dirt",
+      "amount": 1703
+    },
+    {
+      "id": "knowledge-orb",
+      "amount": 227
+    },
+    {
+      "id": "tin-ore",
+      "amount": 5
+    },
+    {
+      "id": "iron-ore",
+      "amount": 4
+    },
+    {
+      "id": "maple-log",
+      "amount": 1
+    },
+    {
+      "id": "oak-log",
+      "amount": 12
+    },
+    {
+      "id": "birch-log",
+      "amount": 8
+    },
+    {
+      "id": "mining-charm",
+      "amount": 16
+    },
+    {
+      "id": "knife",
+      "amount": 115
+    },
+    {
+      "id": "minnow",
+      "amount": 82
+    },
+    {
+      "id": "raw-wind-essence",
+      "amount": 15
+    },
+    {
+      "id": "trash",
+      "amount": 17
+    },
+    {
+      "id": "seaweed",
+      "amount": 3
+    },
+    {
+      "id": "treasure-chest",
+      "amount": 1
+    },
+    {
+      "id": "tin-bar",
+      "amount": 3
+    }
+  ],
+  "story": {
+    "completedTasks": [
+      "Getting Started",
+      "Openning up Containers",
+      "Summoning Friendly Creatures",
+      "Planting a Flower",
+      "Using the Workbench",
+      "Using the Furnace",
+      "Making the Gold",
+      "Milk Time",
+      "A Friendly Hand",
+      "Expedition Assignment"
+    ],
+    "unlockedTabs": [
+      "Tutorial",
+      "Chopping",
+      "Collectibles",
+      "Beastiary",
+      "Item Codex",
+      "Achievements",
+      "Settings",
+      "Save Management",
+      "Content Exporter",
+      "Discord",
+      "Credits",
+      "Developer Tools",
+      "Statistics",
+      "Changelog",
+      "Quit",
+      "Inventory",
+      "Summoning",
+      "Creatures",
+      "Helpers",
+      "Garden",
+      "Workbench",
+      "Mining",
+      "Furnace",
+      "Stove",
+      "Task Board",
+      "Merchant",
+      "Expeditions",
+      "Exploring",
+      "Digging",
+      "Fishing",
+      "Farming",
+      "Merge Board"
+    ],
+    "lockOverride": false
+  },
+  "creatures": [
+    {
+      "id": "6a98c0b4-9a9d-46c7-b6f9-db98cfcbde52",
+      "species": "moss",
+      "experience": 27813
+    },
+    {
+      "id": "5a8627d6-4fd3-425f-95d7-dedfad3f8354",
+      "species": "sunny",
+      "experience": 0
+    },
+    {
+      "id": "5a619d6f-5859-47ba-9c85-8f44a714e40e",
+      "species": "scoots",
+      "experience": 0
+    },
+    {
+      "id": "0ec4c69d-d61a-4fa5-9d1f-ac18db030ff8",
+      "species": "slick",
+      "experience": 0
+    },
+    {
+      "id": "1b9e4c63-ce10-490f-a084-b942876cc1b9",
+      "species": "chroma",
+      "experience": 0
+    }
+  ],
+  "skills": [
+    {
+      "id": "Chopping",
+      "xp": 3321.200000000004
+    },
+    {
+      "id": "Workbench",
+      "xp": 60
+    },
+    {
+      "id": "Furnace",
+      "xp": 2460
+    },
+    {
+      "id": "Mining",
+      "xp": 35075
+    },
+    {
+      "id": "Fishing",
+      "xp": 278
+    }
+  ],
+  "progress": {
+    "skilling": {
+      "id": "Fishing",
+      "activity": "shallow-pond",
+      "progress": 0.742125004529953,
+      "startTime": 1772835381.641,
+      "items": [
+        {
+          "id": "minnow",
+          "amount": 77
+        },
+        {
+          "id": "coal",
+          "amount": 10
+        },
+        {
+          "id": "oak-log",
+          "amount": 10
+        },
+        {
+          "id": "trash",
+          "amount": 17
+        },
+        {
+          "id": "leaf",
+          "amount": 5
+        },
+        {
+          "id": "relic",
+          "amount": 2
+        },
+        {
+          "id": "seaweed",
+          "amount": 3
+        },
+        {
+          "id": "dirt",
+          "amount": 3
+        },
+        {
+          "id": "treasure-chest",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "settings": {
+    "masterVolume": 50,
+    "soundEffectsVolume": 75,
+    "musicVolume": 8,
+    "enableSoundEffects": false,
+    "enableMusic": false,
+    "crtEffect": true,
+    "showSaveIndicator": true,
+    "enableItemGainNotifications": true,
+    "selectedFont": "GameFont",
+    "zoomFactor": 1,
+    "autoScaleEnabled": true,
+    "oldSchoolMode": false,
+    "fullscreen": false,
+    "enableNotificationSounds": true,
+    "offlineProgress": true,
+    "disabledNavigationTabs": [
+      "Tutorial"
+    ],
+    "autoCollectExpeditions": true
+  },
+  "favoriteItems": [
+    "gold",
+    "awaken-points"
+  ],
+  "stove": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "crusher": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "furnace": {
+    "isActive": true,
+    "item": {
+      "id": "tin-bar",
+      "name": "Tin Bar",
+      "type": "Refined",
+      "description": "A refined tin bar smelted from tin ore and coal.",
+      "image": "items/tin-bar.png",
+      "sellValue": 30,
+      "recipes": [
+        {
+          "workstation": "Furnace",
+          "levelRequirement": 5,
+          "ingredients": [
+            {
+              "id": "tin-ore",
+              "amount": 32
+            },
+            {
+              "id": "coal",
+              "amount": 4
+            },
+            {
+              "id": "hammer",
+              "amount": 1
+            }
+          ],
+          "outputAmount": 1,
+          "craftTime": 30,
+          "experience": 60
+        }
+      ]
+    },
+    "progress": 0.6266400003433228,
+    "duration": 150,
+    "startTime": 1772835293.582,
+    "amount": 5,
+    "completedItems": 3,
+    "singleItemDuration": 30,
+    "queue": [
+      {
+        "itemId": "tin-bar",
+        "amount": 5,
+        "item": {
+          "id": "tin-bar",
+          "name": "Tin Bar",
+          "type": "Refined",
+          "description": "A refined tin bar smelted from tin ore and coal.",
+          "image": "items/tin-bar.png",
+          "sellValue": 30,
+          "recipes": [
+            {
+              "workstation": "Furnace",
+              "levelRequirement": 5,
+              "ingredients": [
+                {
+                  "id": "tin-ore",
+                  "amount": 32
+                },
+                {
+                  "id": "coal",
+                  "amount": 4
+                },
+                {
+                  "id": "hammer",
+                  "amount": 1
+                }
+              ],
+              "outputAmount": 1,
+              "craftTime": 30,
+              "experience": 60
+            }
+          ]
+        },
+        "recipe": {
+          "workstation": "Furnace",
+          "levelRequirement": 5,
+          "ingredients": [
+            {
+              "id": "tin-ore",
+              "amount": 32
+            },
+            {
+              "id": "coal",
+              "amount": 4
+            },
+            {
+              "id": "hammer",
+              "amount": 1
+            }
+          ],
+          "outputAmount": 1,
+          "craftTime": 30,
+          "experience": 60
+        },
+        "singleItemDuration": 30,
+        "totalDuration": 150
+      }
+    ]
+  },
+  "workbench": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "timbershop": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "alchemytable": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "runecrafter": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "collections": {
+    "items": [
+      "twig",
+      "feather",
+      "leaf",
+      "pouch",
+      "chopping-charm",
+      "saw",
+      "health-potion",
+      "fire-flower",
+      "gold",
+      "raw-fire-essence",
+      "fertilizer",
+      "stone",
+      "hammer",
+      "copper-ore",
+      "coal",
+      "planks",
+      "copper-bar",
+      "milk",
+      "backpack",
+      "charm-crate",
+      "exploring-charm",
+      "digging-charm",
+      "fishing-charm",
+      "gold-flower",
+      "relic",
+      "dirt",
+      "crate",
+      "knowledge-orb",
+      "tin-ore",
+      "iron-ore",
+      "maple-log",
+      "oak-log",
+      "birch-log",
+      "mining-charm",
+      "knife",
+      "minnow",
+      "wind-flower",
+      "raw-wind-essence",
+      "trash",
+      "seaweed",
+      "treasure-chest",
+      "tin-bar"
+    ],
+    "achievements": [
+      "collect-1-creature"
+    ],
+    "creatures": [
+      "moss",
+      "sunny",
+      "scoots",
+      "slick",
+      "chroma"
+    ],
+    "collectibles": []
+  },
+  "helpers": [
+    {
+      "startTime": 1772835322.569,
+      "creatureId": "sunny",
+      "skillId": "Chopping",
+      "activityId": "oak-tree",
+      "progress": 0.5909909096631136
+    },
+    {
+      "startTime": 1772835320.076,
+      "creatureId": "scoots",
+      "skillId": "Mining",
+      "activityId": "coal",
+      "progress": 0.6136545463041826
+    }
+  ],
+  "sanctuary": [],
+  "activeExpeditions": [
+    {
+      "instance": {
+        "id": "a467671e-bebe-410f-b9ae-3e4f020e3f69",
+        "expeditionTypeId": "expedition-type-9",
+        "tier": 1,
+        "difficultyRating": 3600,
+        "biomeId": "lake"
+      },
+      "creatures": [
+        "6a98c0b4-9a9d-46c7-b6f9-db98cfcbde52",
+        "1b9e4c63-ce10-490f-a084-b942876cc1b9",
+        "0ec4c69d-d61a-4fa5-9d1f-ac18db030ff8"
+      ],
+      "items": [],
+      "startTime": 1772834958.892,
+      "duration": 9501,
+      "completed": false,
+      "success": null,
+      "rewards": null,
+      "repeatExpedition": true
+    }
+  ],
+  "expeditionRotation": [],
+  "lastExpeditionRotationTime": null,
+  "expeditionTierSelections": {},
+  "expeditionCompletions": {
+    "expedition-type-1": {
+      "1": 227
+    }
+  },
+  "taskBoard": {
+    "tasks": [
+      {
+        "id": "task-1772775648832-0",
+        "itemId": "dirt",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": true,
+        "lastResetTime": 1772826468.459
+      },
+      {
+        "id": "task-1772775648832-1",
+        "itemId": "stone",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": true,
+        "lastResetTime": 1772826465.694
+      },
+      {
+        "id": "task-1772775648832-2",
+        "itemId": "relic",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": true,
+        "lastResetTime": 1772826467.426
+      },
+      {
+        "id": "task-1772775648832-3",
+        "itemId": "feather",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": true,
+        "lastResetTime": 1772776194.767
+      },
+      {
+        "id": "task-1772775648832-4",
+        "itemId": "hide",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772775648.832
+      },
+      {
+        "id": "task-1772775648832-5",
+        "itemId": "twig",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": true,
+        "lastResetTime": 1772777426.326
+      },
+      {
+        "id": "task-1772775648832-6",
+        "itemId": "meat",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772775648.832
+      },
+      {
+        "id": "task-1772775648832-7",
+        "itemId": "berry",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772775648.832
+      }
+    ],
+    "lastResetTime": 1772589600
+  },
+  "purchasedUpgrades": [],
+  "garden": {
+    "flowers": [
+      {
+        "flowerId": "fire-flower",
+        "x": 0,
+        "y": 0,
+        "level": 1
+      },
+      {
+        "flowerId": "gold-flower",
+        "x": 1,
+        "y": 0,
+        "level": 2
+      },
+      {
+        "flowerId": "wind-flower",
+        "x": 2,
+        "y": 0,
+        "level": 1
+      }
+    ],
+    "lastCycleTime": 1772835332.419,
+    "rocks": [
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 2
+      },
+      {
+        "x": 4,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 2,
+        "y": 3
+      },
+      {
+        "x": 3,
+        "y": 3
+      },
+      {
+        "x": 4,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 3,
+        "y": 4
+      },
+      {
+        "x": 4,
+        "y": 4
+      }
+    ]
+  },
+  "dungeons": {
+    "available": [],
+    "pool": [],
+    "totalCompletions": 0,
+    "lastResult": null
+  },
+  "unlockedAutomations": [],
+  "visitedTabs": [
+    "Settings",
+    "Statistics",
+    "Changelog",
+    "Credits",
+    "Developer Tools",
+    "Tutorial",
+    "Content Exporter",
+    "Save Management",
+    "Collectibles",
+    "Beastiary",
+    "Item Codex",
+    "Achievements",
+    "Content Exporter",
+    "Chopping",
+    "Inventory",
+    "Summoning",
+    "Helpers",
+    "Creatures",
+    "Garden",
+    "Mining",
+    "Workbench",
+    "Furnace",
+    "Task Board",
+    "Merchant",
+    "Expeditions",
+    "Stove",
+    "Exploring",
+    "Digging",
+    "Fishing",
+    "Farming",
+    "Merge Board"
+  ],
+  "unseenSummons": [],
+  "seenSummons": [
+    "moss",
+    "sunny",
+    "gummy",
+    "ranger",
+    "slick",
+    "scoots",
+    "chroma",
+    "mochi"
+  ],
+  "itemLog": [
+    {
+      "itemId": "trash",
+      "amount": 1,
+      "timestamp": 1772835277.611
+    },
+    {
+      "itemId": "coal",
+      "amount": 1,
+      "timestamp": 1772835293.582
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835293.614
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835301.614
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835309.616
+    },
+    {
+      "itemId": "trash",
+      "amount": 1,
+      "timestamp": 1772835317.617
+    },
+    {
+      "itemId": "coal",
+      "amount": 1,
+      "timestamp": 1772835320.076
+    },
+    {
+      "itemId": "oak-log",
+      "amount": 1,
+      "timestamp": 1772835322.569
+    },
+    {
+      "itemId": "tin-bar",
+      "amount": 1,
+      "timestamp": 1772835323.592
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835325.619
+    },
+    {
+      "itemId": "raw-fire-essence",
+      "amount": 1,
+      "timestamp": 1772835332.419
+    },
+    {
+      "itemId": "gold",
+      "amount": 2,
+      "timestamp": 1772835332.419
+    },
+    {
+      "itemId": "raw-wind-essence",
+      "amount": 1,
+      "timestamp": 1772835332.419
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835333.622
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835349.628
+    },
+    {
+      "itemId": "tin-bar",
+      "amount": 1,
+      "timestamp": 1772835353.597
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835357.628
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835365.63
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772835373.634
+    },
+    {
+      "itemId": "tin-bar",
+      "amount": 1,
+      "timestamp": 1772835383.594
+    }
+  ],
+  "statistics": {
+    "skillingCycles": {
+      "Chopping": 424,
+      "Mining": 8893,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 139,
+      "Exploring": 0
+    },
+    "helperCycles": {
+      "Chopping": 533,
+      "Mining": 42,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "totalGoldEarned": 21957,
+    "totalTasksCompleted": 5,
+    "totalCreatureXP": 27813,
+    "expeditions": {
+      "total": 227,
+      "successful": 227,
+      "failed": 0,
+      "highestPartyScore": 690
+    },
+    "totalItemsGained": 22358,
+    "itemsCrafted": {
+      "Stove": 0,
+      "Workbench": 1,
+      "Furnace": 41,
+      "Timbershop": 0,
+      "total": 42
+    }
+  }
+}

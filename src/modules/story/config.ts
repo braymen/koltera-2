@@ -1,0 +1,17 @@
+export const BASE_UNLOCKED_TABS = [
+    'Tutorial',
+    'Chopping',
+    'Collectibles',
+    'Beastiary',
+    'Item Codex',
+    'Achievements',
+    'Settings',
+    'Save Management',
+    'Content Exporter',
+    'Discord',
+    'Credits',
+    ...(process.env.NODE_ENV === 'development' ? ['Developer Tools'] : []),
+    'Statistics',
+    'Changelog',
+    'Quit',
+]

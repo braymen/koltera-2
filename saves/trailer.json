@@ -1,0 +1,2183 @@
+{
+  "version": 5,
+  "name": "",
+  "tab": "Save Management",
+  "subtab": "",
+  "lastSaveTime": 1772846641.212,
+  "firstPlayTime": 1772846345.516,
+  "firstTimeLoad": false,
+  "gameCompleted": false,
+  "totalPlaytime": 302.2314309885327,
+  "onlinePlaytime": 290.74443099997677,
+  "offlinePlaytime": 11.486999988555908,
+  "inventory": [
+    {
+      "id": "pouch",
+      "amount": 872
+    },
+    {
+      "id": "fire-flower",
+      "amount": 798
+    },
+    {
+      "id": "gold",
+      "amount": 2690
+    },
+    {
+      "id": "fertilizer",
+      "amount": 6
+    },
+    {
+      "id": "stone",
+      "amount": 22
+    },
+    {
+      "id": "hammer",
+      "amount": 170
+    },
+    {
+      "id": "copper-ore",
+      "amount": 32
+    },
+    {
+      "id": "twig",
+      "amount": 453
+    },
+    {
+      "id": "coal",
+      "amount": 707
+    },
+    {
+      "id": "copper-bar",
+      "amount": 372
+    },
+    {
+      "id": "backpack",
+      "amount": 743
+    },
+    {
+      "id": "charm-crate",
+      "amount": 446
+    },
+    {
+      "id": "braymens-letter",
+      "amount": 187
+    },
+    {
+      "id": "runestone",
+      "amount": 285
+    },
+    {
+      "id": "armor-crate",
+      "amount": 458
+    },
+    {
+      "id": "solarite-bar",
+      "amount": 88
+    },
+    {
+      "id": "snow",
+      "amount": 230
+    },
+    {
+      "id": "hide",
+      "amount": 757
+    },
+    {
+      "id": "sand",
+      "amount": 369
+    },
+    {
+      "id": "empty-can",
+      "amount": 928
+    },
+    {
+      "id": "tin-bar",
+      "amount": 512
+    },
+    {
+      "id": "artifact",
+      "amount": 299
+    },
+    {
+      "id": "kelp",
+      "amount": 374
+    },
+    {
+      "id": "grass",
+      "amount": 496
+    },
+    {
+      "id": "herb-pouch",
+      "amount": 258
+    },
+    {
+      "id": "leather",
+      "amount": 185
+    },
+    {
+      "id": "chopping-charm",
+      "amount": 180
+    },
+    {
+      "id": "emberfish",
+      "amount": 414
+    },
+    {
+      "id": "snail",
+      "amount": 98
+    },
+    {
+      "id": "potato",
+      "amount": 821
+    },
+    {
+      "id": "cheese",
+      "amount": 269
+    },
+    {
+      "id": "iron-bar",
+      "amount": 401
+    },
+    {
+      "id": "berry",
+      "amount": 343
+    },
+    {
+      "id": "burried-chest",
+      "amount": 162
+    },
+    {
+      "id": "salt",
+      "amount": 464
+    },
+    {
+      "id": "blood-vial",
+      "amount": 315
+    },
+    {
+      "id": "salmon",
+      "amount": 126
+    },
+    {
+      "id": "egg",
+      "amount": 152
+    },
+    {
+      "id": "adamantite-bar",
+      "amount": 457
+    },
+    {
+      "id": "feather",
+      "amount": 421
+    },
+    {
+      "id": "raw-wind-essence",
+      "amount": 416
+    },
+    {
+      "id": "magical-carp",
+      "amount": 775
+    },
+    {
+      "id": "night-shard",
+      "amount": 416
+    },
+    {
+      "id": "coral",
+      "amount": 294
+    },
+    {
+      "id": "legacy-fragment",
+      "amount": 210
+    },
+    {
+      "id": "obsidian",
+      "amount": 394
+    },
+    {
+      "id": "mining-charm",
+      "amount": 165
+    },
+    {
+      "id": "silver-ore",
+      "amount": 670
+    },
+    {
+      "id": "rainbow-fish",
+      "amount": 61
+    },
+    {
+      "id": "carp",
+      "amount": 549
+    },
+    {
+      "id": "knife",
+      "amount": 404
+    },
+    {
+      "id": "clay",
+      "amount": 277
+    },
+    {
+      "id": "runic-ore",
+      "amount": 418
+    },
+    {
+      "id": "gemstone",
+      "amount": 462
+    },
+    {
+      "id": "corn",
+      "amount": 791
+    },
+    {
+      "id": "seaweed",
+      "amount": 154
+    },
+    {
+      "id": "hook",
+      "amount": 438
+    },
+    {
+      "id": "solarite-ore",
+      "amount": 340
+    },
+    {
+      "id": "mushroom",
+      "amount": 208
+    },
+    {
+      "id": "pure-fire-essence",
+      "amount": 449
+    },
+    {
+      "id": "tin-ore",
+      "amount": 90
+    },
+    {
+      "id": "pure-wind-essence",
+      "amount": 397
+    },
+    {
+      "id": "gravel",
+      "amount": 291
+    },
+    {
+      "id": "walleye",
+      "amount": 255
+    },
+    {
+      "id": "birch-log",
+      "amount": 554
+    },
+    {
+      "id": "water-flower",
+      "amount": 439
+    },
+    {
+      "id": "helmet",
+      "amount": 330
+    },
+    {
+      "id": "arcanum-bar",
+      "amount": 843
+    },
+    {
+      "id": "dungeon-rune",
+      "amount": 699
+    },
+    {
+      "id": "earth-rune",
+      "amount": 455
+    },
+    {
+      "id": "weeds",
+      "amount": 331
+    },
+    {
+      "id": "cheeseburger",
+      "amount": 230
+    },
+    {
+      "id": "scale",
+      "amount": 267
+    },
+    {
+      "id": "wind-flower",
+      "amount": 782
+    },
+    {
+      "id": "rosemary",
+      "amount": 274
+    },
+    {
+      "id": "raw-fire-essence",
+      "amount": 500
+    },
+    {
+      "id": "dungeon-dust",
+      "amount": 258
+    },
+    {
+      "id": "chestplate",
+      "amount": 223
+    },
+    {
+      "id": "dirt",
+      "amount": 432
+    },
+    {
+      "id": "cooked-meat",
+      "amount": 477
+    },
+    {
+      "id": "farming-charm",
+      "amount": 468
+    },
+    {
+      "id": "box-of-fish",
+      "amount": 333
+    },
+    {
+      "id": "eggplant",
+      "amount": 475
+    },
+    {
+      "id": "trout",
+      "amount": 254
+    },
+    {
+      "id": "milk",
+      "amount": 108
+    },
+    {
+      "id": "leaf",
+      "amount": 742
+    },
+    {
+      "id": "cedar-log",
+      "amount": 239
+    },
+    {
+      "id": "bucket",
+      "amount": 225
+    },
+    {
+      "id": "maple-log",
+      "amount": 173
+    },
+    {
+      "id": "pineapple",
+      "amount": 486
+    },
+    {
+      "id": "spruce-log",
+      "amount": 668
+    },
+    {
+      "id": "raw-water-essence",
+      "amount": 371
+    },
+    {
+      "id": "saw",
+      "amount": 275
+    },
+    {
+      "id": "redfish",
+      "amount": 324
+    },
+    {
+      "id": "earth-stone",
+      "amount": 455
+    },
+    {
+      "id": "bone",
+      "amount": 420
+    },
+    {
+      "id": "carrot",
+      "amount": 614
+    },
+    {
+      "id": "key-fragment",
+      "amount": 496
+    },
+    {
+      "id": "platinum-ore",
+      "amount": 282
+    },
+    {
+      "id": "emerald",
+      "amount": 394
+    },
+    {
+      "id": "awaken-points",
+      "amount": 233
+    },
+    {
+      "id": "cooked-fish",
+      "amount": 477
+    },
+    {
+      "id": "gold-bar",
+      "amount": 314
+    },
+    {
+      "id": "skull",
+      "amount": 6
+    },
+    {
+      "id": "thyme",
+      "amount": 102
+    },
+    {
+      "id": "web",
+      "amount": 401
+    },
+    {
+      "id": "shell",
+      "amount": 413
+    },
+    {
+      "id": "spices",
+      "amount": 314
+    },
+    {
+      "id": "vine",
+      "amount": 46
+    },
+    {
+      "id": "meat",
+      "amount": 363
+    },
+    {
+      "id": "gold-ore",
+      "amount": 124
+    },
+    {
+      "id": "water-rune",
+      "amount": 274
+    },
+    {
+      "id": "iron-ore",
+      "amount": 479
+    },
+    {
+      "id": "poison-vial",
+      "amount": 90
+    },
+    {
+      "id": "arcanum-ore",
+      "amount": 93
+    },
+    {
+      "id": "boots",
+      "amount": 466
+    },
+    {
+      "id": "water-bucket",
+      "amount": 226
+    },
+    {
+      "id": "arcanum-log",
+      "amount": 253
+    },
+    {
+      "id": "adamantite-ore",
+      "amount": 98
+    },
+    {
+      "id": "infinity-stone",
+      "amount": 315
+    },
+    {
+      "id": "ancient-tome",
+      "amount": 383
+    },
+    {
+      "id": "willow-log",
+      "amount": 337
+    },
+    {
+      "id": "ice",
+      "amount": 159
+    },
+    {
+      "id": "oak-log",
+      "amount": 458
+    },
+    {
+      "id": "crab",
+      "amount": 17
+    },
+    {
+      "id": "night-feather",
+      "amount": 416
+    },
+    {
+      "id": "knowledge-orb",
+      "amount": 365
+    },
+    {
+      "id": "runic-bar",
+      "amount": 258
+    },
+    {
+      "id": "bass",
+      "amount": 271
+    },
+    {
+      "id": "cloth",
+      "amount": 449
+    },
+    {
+      "id": "water-stone",
+      "amount": 430
+    },
+    {
+      "id": "meat-stew",
+      "amount": 262
+    },
+    {
+      "id": "health-potion",
+      "amount": 158
+    },
+    {
+      "id": "ruby",
+      "amount": 32
+    },
+    {
+      "id": "earth-flower",
+      "amount": 276
+    },
+    {
+      "id": "memory-orb",
+      "amount": 187
+    },
+    {
+      "id": "bowl",
+      "amount": 148
+    },
+    {
+      "id": "silver-bar",
+      "amount": 393
+    },
+    {
+      "id": "flour",
+      "amount": 357
+    },
+    {
+      "id": "ash-log",
+      "amount": 110
+    },
+    {
+      "id": "minnow",
+      "amount": 165
+    },
+    {
+      "id": "elder-log",
+      "amount": 151
+    },
+    {
+      "id": "planks",
+      "amount": 320
+    },
+    {
+      "id": "lichen",
+      "amount": 258
+    },
+    {
+      "id": "fire-stone",
+      "amount": 307
+    },
+    {
+      "id": "basil",
+      "amount": 365
+    },
+    {
+      "id": "exploring-charm",
+      "amount": 153
+    },
+    {
+      "id": "pure-earth-essence",
+      "amount": 236
+    }
+  ],
+  "story": {
+    "completedTasks": [
+      "Getting Started",
+      "Openning up Containers",
+      "Summoning Friendly Creatures",
+      "Planting a Flower",
+      "Using the Workbench",
+      "Using the Furnace",
+      "Making the Gold",
+      "Milk Time",
+      "A Friendly Hand",
+      "Expedition Assignment"
+    ],
+    "unlockedTabs": [
+      "Tutorial",
+      "Chopping",
+      "Collectibles",
+      "Beastiary",
+      "Item Codex",
+      "Achievements",
+      "Settings",
+      "Save Management",
+      "Content Exporter",
+      "Discord",
+      "Credits",
+      "Developer Tools",
+      "Statistics",
+      "Changelog",
+      "Quit",
+      "Summoning",
+      "Garden",
+      "Workbench",
+      "Mining",
+      "Furnace",
+      "Stove",
+      "Task Board",
+      "Merchant",
+      "Expeditions",
+      "Exploring",
+      "Digging",
+      "Fishing",
+      "Farming",
+      "Inventory",
+      "Sanctuary",
+      "Awaken Tree",
+      "Creatures",
+      "Helpers"
+    ],
+    "lockOverride": true
+  },
+  "creatures": [
+    {
+      "id": "fbc1b547-be3c-4093-8f3b-06107f18c2a6",
+      "species": "mushy",
+      "experience": 180000,
+      "awakened": true
+    },
+    {
+      "id": "31a43c1a-390a-42c6-ad4a-754aeed9aa96",
+      "species": "slick",
+      "experience": 140450
+    },
+    {
+      "id": "a5c41d8f-aa2d-49ba-9e2d-2d888b82969c",
+      "species": "wally",
+      "experience": 24200,
+      "awakened": true
+    },
+    {
+      "id": "8fcab0ac-eb46-493e-a74b-db42af8c06f2",
+      "species": "luma",
+      "experience": 96800
+    },
+    {
+      "id": "02efa648-0fd3-441b-8661-573c12730807",
+      "species": "diamond",
+      "experience": 224450,
+      "awakened": true
+    },
+    {
+      "id": "01aa03e1-43e0-4229-a64c-c2b10b0ddfe5",
+      "species": "moss",
+      "experience": 76050
+    },
+    {
+      "id": "467c898c-3dc1-4b1e-8bf5-4943b54a84be",
+      "species": "ranger",
+      "experience": 11250,
+      "awakened": true
+    },
+    {
+      "id": "53c21e41-e4d7-48e9-8bdd-ffdbbab6366d",
+      "species": "belle",
+      "experience": 48050
+    },
+    {
+      "id": "bd8d9d72-8f9a-4343-b0dc-63ba55f392e0",
+      "species": "nari",
+      "experience": 54450
+    },
+    {
+      "id": "e785a42d-d3ac-4c92-8e2b-9e6254ecf08e",
+      "species": "mochi",
+      "experience": 125000
+    },
+    {
+      "id": "d4770936-53a5-49e8-a21c-af55b9abcdd6",
+      "species": "stella",
+      "experience": 96800
+    },
+    {
+      "id": "360eac11-51d8-4618-a634-e65c04c8b8ac",
+      "species": "skipper",
+      "experience": 186052
+    },
+    {
+      "id": "6ab188a3-87ea-4a3e-a39d-7389624c782b",
+      "species": "terra",
+      "experience": 211250
+    },
+    {
+      "id": "5c6d85e6-3f46-4a9c-a662-1c70900c5dd8",
+      "species": "mothie",
+      "experience": 151250
+    },
+    {
+      "id": "466a1649-f620-439c-8ee4-b694dce8b4fc",
+      "species": "twitch",
+      "experience": 57800
+    },
+    {
+      "id": "98bb8aee-c3e9-429c-8db7-cac037adb808",
+      "species": "wiggle",
+      "experience": 162450
+    },
+    {
+      "id": "a49961ed-aa26-4bbd-ac8f-8f6dfe84cd93",
+      "species": "peach",
+      "experience": 45000
+    },
+    {
+      "id": "d45580b3-b150-465b-af80-d81ab83ab2d7",
+      "species": "firebelly",
+      "experience": 72200
+    },
+    {
+      "id": "5f5d16d2-a029-4ad3-8b47-36e1fbfa7d90",
+      "species": "luna",
+      "experience": 186050,
+      "awakened": true
+    },
+    {
+      "id": "62110f84-f461-4d77-aacb-6b3addccd1f0",
+      "species": "honey",
+      "experience": 3200
+    },
+    {
+      "id": "1c75541d-6cda-47c2-a949-43fdfee3d4af",
+      "species": "pandy",
+      "experience": 16200
+    },
+    {
+      "id": "2b301200-7335-4d5c-973c-92b2237d3a5a",
+      "species": "flutter",
+      "experience": 115200
+    },
+    {
+      "id": "c4c672f4-53bb-4b10-9672-b685615e9e24",
+      "species": "sakura",
+      "experience": 42050
+    },
+    {
+      "id": "5aa1dfd2-5639-4506-b76c-33b81640456b",
+      "species": "ivan",
+      "experience": 105804
+    },
+    {
+      "id": "7fca4d50-1a86-4111-91c9-c800efdfed2b",
+      "species": "spike",
+      "experience": 24200
+    },
+    {
+      "id": "7e0e119f-9bbe-4be8-981b-a118bd55629c",
+      "species": "ignis",
+      "experience": 231200
+    },
+    {
+      "id": "65d5d878-1169-48d8-942b-b110b5c3dc50",
+      "species": "sarge",
+      "experience": 174050
+    },
+    {
+      "id": "85fcabba-f710-4a50-9a23-6fa3c476ce60",
+      "species": "baabaa",
+      "experience": 115200
+    },
+    {
+      "id": "0909dbf2-0c92-49ea-be70-fd3536915361",
+      "species": "echo",
+      "experience": 110450
+    },
+    {
+      "id": "818e7864-2401-435c-ae94-3912001968de",
+      "species": "mizu",
+      "experience": 217800,
+      "awakened": true
+    },
+    {
+      "id": "2b7ab4be-bfda-46e7-a1e4-c5ad8c3e4f46",
+      "species": "lilith",
+      "experience": 3200
+    },
+    {
+      "id": "58c32b12-ff8f-4271-8acd-724d39e711a6",
+      "species": "kong",
+      "experience": 22050
+    },
+    {
+      "id": "24aeda1e-c71f-4881-96df-52dc6e7dce56",
+      "species": "crank",
+      "experience": 151250
+    },
+    {
+      "id": "ea59ec2b-5cad-4777-b7be-7b8f9be6f8dd",
+      "species": "porkchop",
+      "experience": 101250
+    },
+    {
+      "id": "3bc93336-a14b-44ef-b1e3-c74844cc2f60",
+      "species": "gusty",
+      "experience": 31250
+    },
+    {
+      "id": "0a0d5d4e-b761-4a6a-8048-4684393315eb",
+      "species": "ruby",
+      "experience": 57800
+    },
+    {
+      "id": "7ddbc1da-5c77-4b7a-88f6-c208d0742623",
+      "species": "bandit",
+      "experience": 6050
+    },
+    {
+      "id": "cbb0b7d7-221b-4de8-91f0-9e0b2ccb70e0",
+      "species": "coco",
+      "experience": 48050,
+      "awakened": true
+    },
+    {
+      "id": "bb676ad8-a399-4d8c-88d2-36137f49c351",
+      "species": "snooze",
+      "experience": 88200
+    },
+    {
+      "id": "73d6b62a-efa8-4f0d-ad2c-800e0eac2e68",
+      "species": "rocket",
+      "experience": 11251
+    },
+    {
+      "id": "ac72dcae-a242-4f01-800e-c2f00130a2b7",
+      "species": "snowby",
+      "experience": 200
+    },
+    {
+      "id": "7734c666-810e-4e01-ace7-f08c0f3bc832",
+      "species": "orango",
+      "experience": 125000
+    },
+    {
+      "id": "aef48827-adab-4383-8303-10c61c334009",
+      "species": "coralite",
+      "experience": 28802
+    },
+    {
+      "id": "3fc7daa4-d7ce-4789-9cd8-ba9ed28ef838",
+      "species": "floe",
+      "experience": 54450
+    },
+    {
+      "id": "70a1158b-0a3f-4973-88a2-1fe71d356307",
+      "species": "rascal",
+      "experience": 68450
+    },
+    {
+      "id": "9d422727-89d1-4b78-8771-54d91ca27e5f",
+      "species": "bill",
+      "experience": 110450
+    },
+    {
+      "id": "06709f24-5617-43b9-a994-881fc2834b7c",
+      "species": "chroma",
+      "experience": 45000
+    },
+    {
+      "id": "17b6f1c3-94ca-491c-9684-3bc234b4063d",
+      "species": "poko",
+      "experience": 115200
+    },
+    {
+      "id": "d43a32af-66d7-4ccf-a68c-1b3b1854676b",
+      "species": "rookie",
+      "experience": 2450,
+      "awakened": true
+    },
+    {
+      "id": "fce098b7-585b-4d5f-b330-48304f365808",
+      "species": "brunk",
+      "experience": 33800
+    },
+    {
+      "id": "f2bf87b4-35b2-4dc3-9c03-18b2ae67593e",
+      "species": "pippy",
+      "experience": 48050
+    },
+    {
+      "id": "8b8f69d0-5fd4-4e86-94d3-99a416157232",
+      "species": "karn",
+      "experience": 130050,
+      "awakened": true
+    },
+    {
+      "id": "d86f3d32-c5e8-4b00-9873-db9db7733e12",
+      "species": "nutty",
+      "experience": 33800,
+      "awakened": true
+    },
+    {
+      "id": "b0feac52-be8c-44c2-8a52-328c37d872f6",
+      "species": "prism",
+      "experience": 51201
+    },
+    {
+      "id": "4f07d4e2-56e9-4c8a-a330-027d72bac66b",
+      "species": "dinkee",
+      "experience": 80000
+    },
+    {
+      "id": "a130ae79-036d-420b-9fdf-6eaa19adb71e",
+      "species": "tilly",
+      "experience": 110450
+    },
+    {
+      "id": "5be7d299-5e89-4b64-949e-09eb9de3216e",
+      "species": "scruff",
+      "experience": 61250
+    },
+    {
+      "id": "cdb6f2ba-35e5-4258-8245-2f6b718ebf19",
+      "species": "clad",
+      "experience": 110450
+    },
+    {
+      "id": "591e0671-daea-4b04-9914-6f287399c3b2",
+      "species": "fleece",
+      "experience": 72200
+    },
+    {
+      "id": "5d8b855f-1224-4b44-aeb3-fd74d7501577",
+      "species": "bram",
+      "experience": 4050
+    },
+    {
+      "id": "1deb3024-5a96-4693-ac1d-f7cff732fd32",
+      "species": "koral",
+      "experience": 31250
+    },
+    {
+      "id": "9d75f305-c919-4279-8aec-27d00f46737d",
+      "species": "sizzle",
+      "experience": 186050
+    },
+    {
+      "id": "78374825-6c33-41d6-96df-b713d525e4fc",
+      "species": "hippa",
+      "experience": 6050
+    },
+    {
+      "id": "2c4b3aa7-bc60-43e6-84e4-385db37a8a8f",
+      "species": "ranger",
+      "experience": 72200
+    },
+    {
+      "id": "2b872a04-41a6-43ec-9a50-6f4e0bf10914",
+      "species": "pippy",
+      "experience": 245000
+    },
+    {
+      "id": "e5103374-de0c-477d-83e4-5429e8c6e88c",
+      "species": "fleece",
+      "experience": 1250
+    },
+    {
+      "id": "5059715f-16ef-4a7b-b3fa-abea43c02cc6",
+      "species": "chomp",
+      "experience": 26450
+    },
+    {
+      "id": "959fd77c-b35c-439a-a128-678abd8c8dd2",
+      "species": "mizu",
+      "experience": 115200
+    },
+    {
+      "id": "fab8e1a6-a824-4d07-82c1-7fa0d57a35e6",
+      "species": "tilly",
+      "experience": 105800
+    },
+    {
+      "id": "1bd132dc-1234-422d-8a2b-541de56d923b",
+      "species": "crank",
+      "experience": 16200
+    },
+    {
+      "id": "3d58885b-75c7-4069-9d4c-8c24a78c2968",
+      "species": "luna",
+      "experience": 20000
+    },
+    {
+      "id": "96d2b9e5-1335-4232-8381-503c7663fc5f",
+      "species": "naria",
+      "experience": 20000,
+      "awakened": true
+    },
+    {
+      "id": "f1372475-c132-44d1-963c-0f2748a83d29",
+      "species": "nari",
+      "experience": 3200
+    },
+    {
+      "id": "0b8fa956-9cde-4acd-b644-a6f020e1f395",
+      "species": "ravager",
+      "experience": 4050
+    },
+    {
+      "id": "d8c1b905-2207-4a99-9508-be565a36be79",
+      "species": "poko",
+      "experience": 192200
+    },
+    {
+      "id": "0865890f-5ca1-4b53-9cd3-e3bbbf433d61",
+      "species": "skitter",
+      "experience": 39203
+    },
+    {
+      "id": "281c5112-1dbc-4e02-80a2-4d2165e456ed",
+      "species": "floe",
+      "experience": 238050
+    },
+    {
+      "id": "1df41e15-3bb9-4a1d-9c02-45f32ec82641",
+      "species": "toto",
+      "experience": 20000
+    },
+    {
+      "id": "4099f490-a312-42ee-8fb6-b55984022a20",
+      "species": "kango",
+      "experience": 1250
+    },
+    {
+      "id": "303236a3-148e-4dff-a63f-991a3a10c504",
+      "species": "rookie",
+      "experience": 0,
+      "awakened": true
+    },
+    {
+      "id": "d19d8cf2-e12b-4f4b-aab2-2c51df3724fb",
+      "species": "spud",
+      "experience": 22050
+    },
+    {
+      "id": "75a5d9ec-c2a3-4f80-8296-4f5b24830c7c",
+      "species": "echo",
+      "experience": 105800
+    },
+    {
+      "id": "d8dcd60b-36ff-4589-ae09-c2c2b82ecc23",
+      "species": "pudge",
+      "experience": 45000
+    },
+    {
+      "id": "14ad5e0a-f51e-4942-a29a-e41b24bb3a15",
+      "species": "pandy",
+      "experience": 200
+    },
+    {
+      "id": "bbd8d839-e275-4120-8512-0ea56ca17ad9",
+      "species": "nibsy",
+      "experience": 151250
+    },
+    {
+      "id": "8b73176f-078d-4bdc-bc74-0fb782451242",
+      "species": "terra",
+      "experience": 1250
+    },
+    {
+      "id": "10d5ac8d-5251-4a3b-a385-e1a4e0b65913",
+      "species": "squish",
+      "experience": 7200
+    },
+    {
+      "id": "21460913-0893-448d-b555-cc4a60ae3871",
+      "species": "corala",
+      "experience": 110450,
+      "awakened": true
+    },
+    {
+      "id": "f544a236-d005-4884-8d01-7bb835c55356",
+      "species": "astra",
+      "experience": 92450
+    },
+    {
+      "id": "12f30760-e800-453e-9142-4f78e2470cb2",
+      "species": "blitz",
+      "experience": 180000
+    },
+    {
+      "id": "a3649162-2352-4352-b879-34626fce456e",
+      "species": "quill",
+      "experience": 16200
+    },
+    {
+      "id": "d2372abd-12e1-4dfb-a0ab-5c3781d25beb",
+      "species": "karn",
+      "experience": 96800
+    },
+    {
+      "id": "adb6ce04-f1d0-43fd-bcf4-252607b8ee4a",
+      "species": "skipper",
+      "experience": 192200
+    },
+    {
+      "id": "df2cd032-e47a-4a08-8163-76bacca75921",
+      "species": "joeyroo",
+      "experience": 48050
+    },
+    {
+      "id": "bc2a89a5-35c5-4916-9c00-95c9abd37b1f",
+      "species": "moss",
+      "experience": 101250
+    },
+    {
+      "id": "3ae3e45c-c4b5-4730-ab23-d22a3e0c986b",
+      "species": "scoots",
+      "experience": 800
+    },
+    {
+      "id": "fd215213-b3fa-4ea2-b3c2-57bd59fcdabe",
+      "species": "kragg",
+      "experience": 31250
+    },
+    {
+      "id": "dbfafb98-bdf9-47b0-8960-2bbbb579817e",
+      "species": "flaire",
+      "experience": 200
+    },
+    {
+      "id": "22c52b0c-c1b3-4bca-b571-7fa72ffa393d",
+      "species": "prism",
+      "experience": 20000
+    },
+    {
+      "id": "fb743d72-19b6-4e08-8d82-d5696eace141",
+      "species": "chroma",
+      "experience": 16200
+    },
+    {
+      "id": "cfffbc9f-e8c4-4688-ab9a-c27a493452a6",
+      "species": "twitch",
+      "experience": 33800,
+      "awakened": true
+    },
+    {
+      "id": "578a4da9-5d26-4f48-8df4-c741786c4f7f",
+      "species": "hedge",
+      "experience": 186050
+    },
+    {
+      "id": "9f219230-7066-4e4b-a770-9cf9f252e783",
+      "species": "sarge",
+      "experience": 7200
+    },
+    {
+      "id": "8db9c045-b7ae-473f-93f3-8f207b1c63fc",
+      "species": "mooberry",
+      "experience": 11250
+    },
+    {
+      "id": "1920f63d-312e-4415-b1a8-074a36e5ed93",
+      "species": "coralite",
+      "experience": 174050
+    },
+    {
+      "id": "fee05485-737d-40dd-b6fa-8912aa12052f",
+      "species": "splash",
+      "experience": 450
+    },
+    {
+      "id": "2f09d841-f4f5-4c8c-87b1-59679ba6ae90",
+      "species": "sunny",
+      "experience": 7200
+    },
+    {
+      "id": "4efd0f61-259c-4a98-bacf-a85f6fdecfd3",
+      "species": "tuskers",
+      "experience": 68450,
+      "awakened": true
+    },
+    {
+      "id": "30692c7d-0639-45e9-95c5-3d0656c50ad1",
+      "species": "misty",
+      "experience": 800
+    },
+    {
+      "id": "949b117a-d8e9-4912-8642-09c70944f3d6",
+      "species": "snowby",
+      "experience": 8450
+    },
+    {
+      "id": "0de1d7d9-7570-492b-b780-5ebd95459821",
+      "species": "bandit",
+      "experience": 72200
+    },
+    {
+      "id": "8cf00158-f928-48ac-8680-0164b9ffa350",
+      "species": "mothie",
+      "experience": 180000
+    },
+    {
+      "id": "a61e0476-4125-4488-b0a5-f6ded770210e",
+      "species": "kroko",
+      "experience": 180000
+    },
+    {
+      "id": "b0662445-48e5-49a8-9012-0b035d2fcc2f",
+      "species": "peak",
+      "experience": 245000
+    },
+    {
+      "id": "39e9b52d-ff08-45c7-b5e6-63640c72bf7c",
+      "species": "gusty",
+      "experience": 57800
+    },
+    {
+      "id": "0ac28b45-a370-47bd-b6d5-96a1989b9931",
+      "species": "midnight",
+      "experience": 2450
+    },
+    {
+      "id": "39950c5d-6775-4fc5-afdb-f29b32b97ed9",
+      "species": "bubbles",
+      "experience": 231200
+    },
+    {
+      "id": "bea89b43-adf9-44eb-bb70-73c4874b23ff",
+      "species": "buzz",
+      "experience": 39200
+    },
+    {
+      "id": "b91a26f7-a35b-49ca-8fe8-1ed28a3a8049",
+      "species": "kong",
+      "experience": 156800
+    },
+    {
+      "id": "ba58286d-bcda-4e59-b029-5ed9f2be24e9",
+      "species": "rascal",
+      "experience": 64800
+    }
+  ],
+  "skills": [
+    {
+      "id": "Chopping",
+      "xp": 16456
+    },
+    {
+      "id": "Mining",
+      "xp": 123660
+    },
+    {
+      "id": "Digging",
+      "xp": 45529
+    },
+    {
+      "id": "Exploring",
+      "xp": 668051
+    },
+    {
+      "id": "Fishing",
+      "xp": 449428
+    },
+    {
+      "id": "Farming",
+      "xp": 123660
+    },
+    {
+      "id": "Runecrafter",
+      "xp": 101333
+    },
+    {
+      "id": "Summoning",
+      "xp": 14833
+    },
+    {
+      "id": "Breeding",
+      "xp": 273742
+    },
+    {
+      "id": "Healing",
+      "xp": 41171
+    },
+    {
+      "id": "Helpers",
+      "xp": 6291
+    },
+    {
+      "id": "Workbench",
+      "xp": 333804
+    },
+    {
+      "id": "Furnace",
+      "xp": 247886
+    },
+    {
+      "id": "Stove",
+      "xp": 75127
+    },
+    {
+      "id": "Crusher",
+      "xp": 41171
+    },
+    {
+      "id": "Alchemy Table",
+      "xp": 203254
+    },
+    {
+      "id": "Expeditions",
+      "xp": 407015
+    }
+  ],
+  "progress": {
+    "skilling": {
+      "id": "Exploring",
+      "activity": "wetland",
+      "progress": 0.31358333428700763,
+      "startTime": 1772846640.92,
+      "items": [
+        {
+          "id": "stone",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "settings": {
+    "masterVolume": 50,
+    "soundEffectsVolume": 75,
+    "musicVolume": 8,
+    "enableSoundEffects": false,
+    "enableMusic": false,
+    "crtEffect": true,
+    "showSaveIndicator": true,
+    "enableItemGainNotifications": true,
+    "selectedFont": "GameFont",
+    "zoomFactor": 1,
+    "autoScaleEnabled": true,
+    "oldSchoolMode": false,
+    "fullscreen": false,
+    "enableNotificationSounds": true,
+    "offlineProgress": true,
+    "disabledNavigationTabs": [
+      "Tutorial"
+    ],
+    "autoCollectExpeditions": true,
+    "defaultLoopExpeditions": true
+  },
+  "favoriteItems": [
+    "gold",
+    "awaken-points"
+  ],
+  "stove": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "crusher": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "furnace": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "workbench": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "timbershop": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "alchemytable": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "runecrafter": {
+    "isActive": false,
+    "item": null,
+    "progress": 0,
+    "duration": 0,
+    "startTime": null,
+    "amount": 0,
+    "completedItems": 0,
+    "singleItemDuration": 0,
+    "queue": []
+  },
+  "collections": {
+    "items": [
+      "pouch",
+      "fire-flower",
+      "gold",
+      "fertilizer",
+      "stone",
+      "hammer",
+      "copper-ore",
+      "twig",
+      "coal",
+      "copper-bar",
+      "backpack",
+      "charm-crate",
+      "braymens-letter",
+      "runestone",
+      "armor-crate",
+      "solarite-bar",
+      "snow",
+      "hide",
+      "sand",
+      "empty-can",
+      "tin-bar",
+      "artifact",
+      "kelp",
+      "grass",
+      "herb-pouch",
+      "leather",
+      "chopping-charm",
+      "emberfish",
+      "snail",
+      "potato",
+      "cheese",
+      "iron-bar",
+      "berry",
+      "burried-chest",
+      "salt",
+      "blood-vial",
+      "salmon",
+      "egg",
+      "adamantite-bar",
+      "feather",
+      "raw-wind-essence",
+      "magical-carp",
+      "night-shard",
+      "coral",
+      "legacy-fragment",
+      "obsidian",
+      "mining-charm",
+      "silver-ore",
+      "rainbow-fish",
+      "carp",
+      "knife",
+      "clay",
+      "runic-ore",
+      "gemstone",
+      "corn",
+      "seaweed",
+      "hook",
+      "solarite-ore",
+      "mushroom",
+      "pure-fire-essence",
+      "tin-ore",
+      "pure-wind-essence",
+      "gravel",
+      "walleye",
+      "birch-log",
+      "water-flower",
+      "helmet",
+      "arcanum-bar",
+      "dungeon-rune",
+      "earth-rune",
+      "weeds",
+      "cheeseburger",
+      "scale",
+      "wind-flower",
+      "rosemary",
+      "raw-fire-essence",
+      "dungeon-dust",
+      "chestplate",
+      "dirt",
+      "cooked-meat",
+      "farming-charm",
+      "box-of-fish",
+      "eggplant",
+      "trout",
+      "milk",
+      "leaf",
+      "cedar-log",
+      "bucket",
+      "maple-log",
+      "pineapple",
+      "spruce-log",
+      "raw-water-essence",
+      "saw",
+      "redfish",
+      "earth-stone",
+      "bone",
+      "carrot",
+      "key-fragment",
+      "platinum-ore",
+      "emerald",
+      "awaken-points",
+      "cooked-fish",
+      "gold-bar",
+      "skull",
+      "thyme",
+      "web",
+      "shell",
+      "spices",
+      "vine",
+      "meat",
+      "gold-ore",
+      "water-rune",
+      "iron-ore",
+      "poison-vial",
+      "arcanum-ore",
+      "boots",
+      "water-bucket",
+      "arcanum-log",
+      "adamantite-ore",
+      "infinity-stone",
+      "ancient-tome",
+      "willow-log",
+      "ice",
+      "oak-log",
+      "crab",
+      "night-feather",
+      "knowledge-orb",
+      "runic-bar",
+      "bass",
+      "cloth",
+      "water-stone",
+      "meat-stew",
+      "health-potion",
+      "ruby",
+      "earth-flower",
+      "memory-orb",
+      "bowl",
+      "silver-bar",
+      "flour",
+      "ash-log",
+      "minnow",
+      "elder-log",
+      "planks",
+      "lichen",
+      "fire-stone",
+      "basil",
+      "exploring-charm",
+      "pure-earth-essence"
+    ],
+    "achievements": [],
+    "creatures": [
+      "mushy",
+      "slick",
+      "wally",
+      "luma",
+      "diamond",
+      "moss",
+      "ranger",
+      "belle",
+      "nari",
+      "mochi",
+      "stella",
+      "skipper",
+      "terra",
+      "mothie",
+      "twitch",
+      "wiggle",
+      "peach",
+      "firebelly",
+      "luna",
+      "honey",
+      "pandy",
+      "flutter",
+      "sakura",
+      "ivan",
+      "spike",
+      "ignis",
+      "sarge",
+      "baabaa",
+      "echo",
+      "mizu",
+      "lilith",
+      "kong",
+      "crank",
+      "porkchop",
+      "gusty",
+      "ruby",
+      "bandit",
+      "coco",
+      "snooze",
+      "rocket",
+      "snowby",
+      "orango",
+      "coralite",
+      "floe",
+      "rascal",
+      "bill",
+      "chroma",
+      "poko",
+      "rookie",
+      "brunk",
+      "pippy",
+      "karn",
+      "nutty",
+      "prism",
+      "dinkee",
+      "tilly",
+      "scruff",
+      "clad",
+      "fleece",
+      "bram",
+      "koral",
+      "sizzle",
+      "hippa",
+      "chomp",
+      "naria",
+      "ravager",
+      "skitter",
+      "toto",
+      "kango",
+      "spud",
+      "pudge",
+      "nibsy",
+      "squish",
+      "corala",
+      "astra",
+      "blitz",
+      "quill",
+      "joeyroo",
+      "scoots",
+      "kragg",
+      "flaire",
+      "hedge",
+      "mooberry",
+      "splash",
+      "sunny",
+      "tuskers",
+      "misty",
+      "kroko",
+      "peak",
+      "midnight",
+      "bubbles",
+      "buzz"
+    ],
+    "collectibles": []
+  },
+  "helpers": [
+    {
+      "startTime": 1772846628.138,
+      "creatureId": "skipper",
+      "skillId": "Exploring",
+      "activityId": "forest",
+      "progress": 0.9599385950781069
+    },
+    {
+      "startTime": 1772846628.234,
+      "creatureId": "prism",
+      "skillId": "Fishing",
+      "activityId": "shallow-pond",
+      "progress": 0.5721289992658196
+    },
+    {
+      "startTime": 1772846636.343,
+      "creatureId": "skitter",
+      "skillId": "Chopping",
+      "activityId": "sapling",
+      "progress": 0.8071699039629827
+    },
+    {
+      "startTime": 1772846643.682,
+      "creatureId": "ivan",
+      "skillId": "Mining",
+      "activityId": "stone",
+      "progress": 0.12512502074241638
+    },
+    {
+      "startTime": 1772846642.613,
+      "creatureId": "coralite",
+      "skillId": "Digging",
+      "activityId": "soft-soil",
+      "progress": 0.15511656263356247
+    },
+    {
+      "startTime": 1772846635.647,
+      "creatureId": "rocket",
+      "skillId": "Farming",
+      "activityId": "grass-seeds",
+      "progress": 0.6771174617357412
+    }
+  ],
+  "sanctuary": [],
+  "activeExpeditions": [],
+  "expeditionRotation": [],
+  "lastExpeditionRotationTime": null,
+  "expeditionTierSelections": {},
+  "expeditionCompletions": {
+    "expedition-type-1": {
+      "1": 80,
+      "2": 20
+    },
+    "expedition-type-2": {
+      "1": 60,
+      "2": 15
+    },
+    "expedition-type-3": {
+      "1": 40,
+      "2": 10
+    },
+    "expedition-type-4": {
+      "1": 30,
+      "2": 5
+    },
+    "expedition-type-5": {
+      "1": 25
+    },
+    "expedition-type-6": {
+      "1": 15
+    }
+  },
+  "taskBoard": {
+    "tasks": [
+      {
+        "id": "task-1772846344602-0",
+        "itemId": "dirt",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-1",
+        "itemId": "hide",
+        "amount": 50,
+        "goldReward": 2000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-2",
+        "itemId": "meat",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-3",
+        "itemId": "twig",
+        "amount": 100,
+        "goldReward": 4000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-4",
+        "itemId": "feather",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-5",
+        "itemId": "relic",
+        "amount": 200,
+        "goldReward": 8000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-6",
+        "itemId": "berry",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      },
+      {
+        "id": "task-1772846344602-7",
+        "itemId": "stone",
+        "amount": 400,
+        "goldReward": 16000,
+        "completed": false,
+        "lastResetTime": 1772846344.602
+      }
+    ],
+    "lastResetTime": 1772589600
+  },
+  "purchasedUpgrades": [],
+  "garden": {
+    "flowers": [],
+    "lastCycleTime": 1772846644.62,
+    "rocks": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 2
+      },
+      {
+        "x": 4,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 2,
+        "y": 3
+      },
+      {
+        "x": 3,
+        "y": 3
+      },
+      {
+        "x": 4,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 3,
+        "y": 4
+      },
+      {
+        "x": 4,
+        "y": 4
+      }
+    ]
+  },
+  "dungeons": {
+    "available": [
+      {
+        "dungeonId": "scorched-wasteland",
+        "effectiveTarget": 25126
+      },
+      {
+        "dungeonId": "gale-summit",
+        "effectiveTarget": 25235
+      },
+      {
+        "dungeonId": "deep-ocean-vault",
+        "effectiveTarget": 27906
+      }
+    ],
+    "pool": [
+      "ancient-ruins",
+      "the-vale",
+      "flooded-depths",
+      "stone-labyrinth",
+      "volcanic-lair"
+    ],
+    "totalCompletions": 0,
+    "lastResult": null
+  },
+  "unlockedAutomations": [],
+  "visitedTabs": [
+    "Settings",
+    "Statistics",
+    "Changelog",
+    "Credits",
+    "Developer Tools",
+    "Tutorial",
+    "Content Exporter",
+    "Save Management",
+    "Collectibles",
+    "Beastiary",
+    "Item Codex",
+    "Achievements",
+    "Content Exporter",
+    "Inventory",
+    "Merchant",
+    "Task Board",
+    "Garden",
+    "Expeditions",
+    "Sanctuary",
+    "Helpers",
+    "Summoning",
+    "Creatures",
+    "Dungeons",
+    "Awaken Tree",
+    "Chopping",
+    "Mining",
+    "Exploring",
+    "Digging",
+    "Fishing",
+    "Farming",
+    "Stove",
+    "Workbench",
+    "Furnace"
+  ],
+  "unseenSummons": [
+    "moss",
+    "scoots",
+    "slick",
+    "chroma",
+    "ranger",
+    "baabaa",
+    "belle",
+    "flaire",
+    "budbud",
+    "rustle",
+    "toto",
+    "rumble",
+    "twilight",
+    "kango",
+    "skitter",
+    "naria"
+  ],
+  "seenSummons": [
+    "buzz",
+    "zibby",
+    "mooberry",
+    "sunny",
+    "miko",
+    "mooyak",
+    "winter"
+  ],
+  "itemLog": [
+    {
+      "itemId": "exploring-charm",
+      "amount": 153,
+      "timestamp": 1772846565.119
+    },
+    {
+      "itemId": "seaweed",
+      "amount": 23,
+      "timestamp": 1772846565.119
+    },
+    {
+      "itemId": "pure-earth-essence",
+      "amount": 236,
+      "timestamp": 1772846565.119
+    },
+    {
+      "itemId": "awaken-points",
+      "amount": 8,
+      "timestamp": 1772846565.12
+    },
+    {
+      "itemId": "berry",
+      "amount": 1,
+      "timestamp": 1772846610.901
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772846615.668
+    },
+    {
+      "itemId": "gold",
+      "amount": 15,
+      "timestamp": 1772846619.189
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846619.672
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772846626.01
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846627.676
+    },
+    {
+      "itemId": "berry",
+      "amount": 1,
+      "timestamp": 1772846628.138
+    },
+    {
+      "itemId": "minnow",
+      "amount": 1,
+      "timestamp": 1772846628.234
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846629.267
+    },
+    {
+      "itemId": "grass",
+      "amount": 1,
+      "timestamp": 1772846635.647
+    },
+    {
+      "itemId": "weeds",
+      "amount": 1,
+      "timestamp": 1772846635.647
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846635.678
+    },
+    {
+      "itemId": "twig",
+      "amount": 1,
+      "timestamp": 1772846636.343
+    },
+    {
+      "itemId": "leaf",
+      "amount": 1,
+      "timestamp": 1772846636.343
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846642.613
+    },
+    {
+      "itemId": "stone",
+      "amount": 1,
+      "timestamp": 1772846643.682
+    }
+  ],
+  "statistics": {
+    "skillingCycles": {
+      "Chopping": 0,
+      "Mining": 0,
+      "Digging": 0,
+      "Farming": 0,
+      "Fishing": 0,
+      "Exploring": 0
+    },
+    "helperCycles": {
+      "Chopping": 3,
+      "Mining": 4,
+      "Digging": 2,
+      "Farming": 1,
+      "Fishing": 1,
+      "Exploring": 2
+    },
+    "totalGoldEarned": 440,
+    "totalTasksCompleted": 0,
+    "totalCreatureXP": 0,
+    "expeditions": {
+      "total": 0,
+      "successful": 0,
+      "failed": 0,
+      "highestPartyScore": 0
+    },
+    "totalItemsGained": 53688,
+    "itemsCrafted": {
+      "Stove": 0,
+      "Workbench": 0,
+      "Furnace": 0,
+      "Timbershop": 0,
+      "total": 0
+    }
+  }
+}

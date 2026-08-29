@@ -1,0 +1,42 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "lib": ["dom", "dom.iterable", "es2020"],
+        "ignoreDeprecations": "6.0",
+        "allowJs": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": false,
+        "noUncheckedIndexedAccess": false,
+        "noImplicitReturns": false,
+        "noPropertyAccessFromIndexSignature": false,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": false,
+        "noEmit": true,
+        "jsx": "react-jsx",
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "exactOptionalPropertyTypes": false,
+        "sourceMap": false,
+        "types": ["node", "webpack-env", "jest", "@testing-library/jest-dom"],
+        "rootDir": ".",
+        "baseUrl": ".",
+        "paths": {
+            "@engine/*": ["src/engine/*"],
+            "@images/*": ["src/content/images/*"],
+            "@sounds/*": ["src/content/sounds/*"],
+            "@data/*": ["src/content/data/*"],
+            "@modules/*": ["src/modules/*"],
+            "@utils/*": ["src/utils/*"],
+            "@pages/*": ["src/views/pages/*"],
+            "@components/*": ["src/views/components/*"],
+            "@configs/*": ["src/content/configs/*"]
+        }
+    },
+    "include": ["src"]
+}
